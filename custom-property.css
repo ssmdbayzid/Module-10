@@ -1,0 +1,27 @@
+
+
+:root{
+    --main-color: gold;
+    --main-background: gold;
+    --main-border: 5px solid gold;
+}
+h1{
+    color: var(--main-color);
+}
+
+
+h6{
+    color: var(--main-color);
+}
+
+
+p{
+    color: var(--main-color);
+    border: 5px dashed var(--main-border);
+}
+
+
+footer{
+    background-color: var(--main-background);
+}
+
